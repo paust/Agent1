@@ -1,0 +1,1 @@
+java -XX:+PrintCompilation -agentpath:../ParameterTrackingAgent/parameter_tracking_agent.so=clazz=Fib\$Person:method=create:param="Ljava/lang/String;[Ljava/lang/String;[IBSIJFDZC":ret:"LFib\$Person;" -cp bin Fib 10

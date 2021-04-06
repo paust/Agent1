@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ParameterTrackingAgent">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../ParameterTrackingAgent/ParameterTrackingAgent.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../ParameterTrackingAgent/javassist.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ParameterTrackingAgent/ParameterTrackingAgent.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

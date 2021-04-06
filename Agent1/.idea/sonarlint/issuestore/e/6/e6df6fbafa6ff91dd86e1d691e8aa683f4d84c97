@@ -1,0 +1,45 @@
+
+v
+java:S4144q"YUpdate this method so that its implementation is not identical to "getEnter" on line 106.(ş†ÓÀ8ê„Êˆ/
+X	java:S125e"<This block of commented-out lines of code should be removed.(ÿ¼ºÖ8»İ”Êˆ/
+f
+java:S21476"DCombine this catch with the one at line 51, which has the same body.(Å‡Ö‡ûÿÿÿÿ8ÒùïÈˆ/
+p
+java:S11924"NDefine a constant instead of duplicating this literal "error occured" 3 times.(«°ñïúÿÿÿÿ8ÒùïÈˆ/
+m
+java:S3457C"KFormat specifiers or lambda should be used instead of string concatenation.(úùíŠşÿÿÿÿ8ÒùïÈˆ/
+X	java:S125["<This block of commented-out lines of code should be removed.(İ…î¥8ı¦¹Éˆ/
+Y
+java:S2629$"7Use the built-in formatting to construct this argument.(¹º¶•ıÿÿÿÿ8ÒùïÈˆ/
+Y	java:S125Ğ"<This block of commented-out lines of code should be removed.(Ï ŒÈ8ÒùïÈˆ/
+X	java:S125Y"<This block of commented-out lines of code should be removed.(µ„ıß8ïßÈÉˆ/
+g
+java:S3457N"KFormat specifiers or lambda should be used instead of string concatenation.(ëâØ8ÒùïÈˆ/
+N
+java:S1144{"1Remove this unused private "getCodeAfter" method.(ø©ˆç8‡Ô•Êˆ/
+T
+java:S1144w"2Remove this unused private "getCodeBefore" method.(ûùü·ıÿÿÿÿ8Ş†–Êˆ/
+n	java:S117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÁ¯Š8ÒùïÈˆ/
+‘
+java:S1130M"tRemove the declaration of thrown exception 'javassist.NotFoundException', as it cannot be thrown from method's body.(ıá­ã8Ş†–Êˆ/
+]	java:S125a"<This block of commented-out lines of code should be removed.(Ùşäîşÿÿÿÿ8»İ”Êˆ/
+r
+java:S1149Q"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(‘àô…úÿÿÿÿ8ş¶Éˆ/
+m
+java:S3457$"KFormat specifiers or lambda should be used instead of string concatenation.(¹º¶•ıÿÿÿÿ8ÒùïÈˆ/
+N
+java:S1172j",Remove this unused method parameter "clazz".(ÿ ®Ìüÿÿÿÿ8ê„Êˆ/
+|
+java:S1192ë"YDefine a constant instead of duplicating this literal "Ljava/lang/CharSequence;" 3 times.(ÉÚç€üÿÿÿÿ8ÒùïÈˆ/
+{
+java:S1192à"XDefine a constant instead of duplicating this literal "java.lang.StringBuilder" 3 times.(•Ç÷çøÿÿÿÿ8ÒùïÈˆ/
+]	java:S125V"<This block of commented-out lines of code should be removed.(Ó‚İ®şÿÿÿÿ8›µôÈˆ/
+?
+java:S1643ª"Use a StringBuilder instead.(ùŸ®öûÿÿÿÿ8ÒùïÈˆ/
+h
+java:S3457h"KFormat specifiers or lambda should be used instead of string concatenation.(¶Ô¾ä8ÒùïÈˆ/
+G
+java:S11819"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ8ÒùïÈˆ/
+I
+java:S1172q",Remove this unused method parameter "clazz".(ş†ÓÀ8ê„Êˆ/
+X	java:S125R"<This block of commented-out lines of code should be removed.(¡ğºŒ8Û”’Éˆ/

@@ -1,0 +1,43 @@
+
+=
+java:S1905"'Remove this unnecessary cast to "List".(¥½ÃŸ
+k
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÛÓ°ñûÿÿÿÿ
+Q	java:S125@"<This block of commented-out lines of code should be removed.(þÎÏ÷
+l
+java:S3457/"Q%n should be used in place of \n to produce the platform-specific line separator.(ïô«þÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(µ…ÇÏûÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÛÓ°ñûÿÿÿÿ
+k
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Á¥¥ìýÿÿÿÿ
+e
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(è‰´+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(þ—×æúÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+A
+java:S1481"&Remove this unused "i" local variable.(ùó›Ìøÿÿÿÿ
+V	java:S1258"<This block of commented-out lines of code should be removed.(Ñö²çûÿÿÿÿ
+P
+java:S1118	":Add a private constructor to hide the implicit public one.(×¼­Æ
+C
+java:S1481?"(Remove this unused "gcp" local variable.(¯ÉÉòûÿÿÿÿ
+Z
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(è‰´+
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(”úÞ±ýÿÿÿÿ
+A
+java:S1481>"&Remove this unused "i" local variable.(ùó›Ìøÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Á¥¥ìýÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(©û –ÿÿÿÿÿ
+V	java:S125;"<This block of commented-out lines of code should be removed.(Ð¦ŽÙøÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ìé¦
+V	java:S125D"<This block of commented-out lines of code should be removed.(²¡€‹úÿÿÿÿ
+H
+java:S1135"2Complete the task associated to this TODO comment.(‚–•Ë
+Q	java:S125 "<This block of commented-out lines of code should be removed.(ÆÝÊŸ
+k
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(”úÞ±ýÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(ïô«þÿÿÿÿ

@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Premain-Class: at.jku.ssw.mevss.jpmb.parametertracking.Agent
+Agent-Class: at.jku.ssw.mevss.jpmb.parametertracking.Agent
+Boot-Class-Path: javassist.jar
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Can-Set-Native-Method-Prefix: true
+
